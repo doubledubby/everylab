@@ -5,12 +5,14 @@ const labsData = [
         "researchArea": "Artificial Intelligence",
         "principalInvestigator": "Dr. Smith",
         "contact": "smith@university.edu"
+        "page": "labs/ai-research-lab.html"
     },
     {
         "labName": "Quantum Physics Lab",
         "researchArea": "Quantum Computing",
         "principalInvestigator": "Dr. Doe",
         "contact": "doe@university.edu"
+        "page": "labs/quantum-physics-lab.html"
     }
     // Add more labs here
 ];
