@@ -20,7 +20,7 @@ const tableBody = document.getElementById("labsTableBody");
 labsData.forEach(lab => {
     const row = document.createElement("tr");
     row.innerHTML = `
-        <td>${lab.labName}</td>
+        <td><a href="${lab.page}">${lab.labName}</a></td>
         <td>${lab.researchArea}</td>
         <td>${lab.principalInvestigator}</td>
         <td>${lab.contact}</td>
