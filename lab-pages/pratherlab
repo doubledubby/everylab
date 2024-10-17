@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Research Lab</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>AI Research Lab</h1>
+        <p><strong>Principal Investigator:</strong> Dr. Smith</p>
+        <p><strong>Research Area:</strong> Artificial Intelligence</p>
+        <p><strong>Description:</strong> The AI Research Lab focuses on cutting-edge research in machine learning, natural language processing, and robotics. Our team is developing new algorithms for deep learning and AI applications in various industries.</p>
+        <p><strong>Key Projects:</strong></p>
+        <ul>
+            <li>AI-Powered Robotics</li>
+            <li>Natural Language Processing for Healthcare</li>
+            <li>Autonomous Vehicles</li>
+        </ul>
+        <p><strong>Contact:</strong> smith@university.edu</p>
+        <a href="../index.html">Back to Lab List</a>
+    </div>
+</body>
+</html>
