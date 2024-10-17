@@ -5,14 +5,21 @@ const labsData = [
         "researchArea": "Artificial Intelligence",
         "principalInvestigator": "Dr. Smith",
         "contact": "smith@university.edu"
-        "page": "labs/ai-research-lab.html"
+        "page": "lab-pages/ai-research-lab.html"
     },
     {
         "labName": "Quantum Physics Lab",
         "researchArea": "Quantum Computing",
         "principalInvestigator": "Dr. Doe",
         "contact": "doe@university.edu"
-        "page": "labs/quantum-physics-lab.html"
+        "page": "lab-pages/quantum-physics-lab.html"
+    },
+    {
+        "labName": "Prather Lab",
+        "researchArea": "Metabolic Engineering",
+        "principalInvestigator": "Dr. Kristala Prather",
+        "contact": "doe@university.edu"
+        "page": "lab-pages/pratherlab.html"
     }
     // Add more labs here
 ];
